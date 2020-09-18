@@ -1,5 +1,5 @@
 //Projeto Domino
-//Laboratorio de Programação
+//Laboratorio de ProgramaÃ§Ã£o
 //Grupo Racionais
 
 #include<stdio.h>
